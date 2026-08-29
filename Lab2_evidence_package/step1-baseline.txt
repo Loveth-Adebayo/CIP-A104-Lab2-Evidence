@@ -1,0 +1,18 @@
+=== CIP-A104 LAB 2: HARMLESS UPLOAD MARKERS ===
+Thu Aug 27 08:31:18 AM WAT 2026
+
+--- FILE INFORMATION ---
+-rw-rw-r-- 1 loveth loveth 66 Aug 27 08:02 lab2-upload-marker.html
+-rw-rw-r-- 1 loveth loveth 86 Aug 27 07:58 lab2-upload-marker.txt
+
+--- MIME / CONTENT TYPE ---
+lab2-upload-marker.txt:  text/plain; charset=us-ascii
+lab2-upload-marker.html: text/plain; charset=us-ascii
+
+--- EXACT SIZE ---
+lab2-upload-marker.txt | size=86 bytes
+lab2-upload-marker.html | size=66 bytes
+
+--- SHA-256 ---
+d351bb9cf91b74f3b2bb893b4f4473f900ed930deccbcf2ffc4e9f73ab731452  lab2-upload-marker.txt
+aee76ebeda877228a62445e61534461b0be2f9fca5b2c709929c042ace060833  lab2-upload-marker.html
